@@ -1,0 +1,13 @@
+.menu a{
+    text-decoration: none;
+    color:black;
+    margin: 10px 10px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    background-color: yellow;
+    border-top: 5px;
+
+}
+.sub-title{
+ color:aqua;
+}
